@@ -12,7 +12,6 @@
     "backend": "nodemon backend",
     "frontend": "npm run start --prefix client",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
-
   },
   "author": "Dushmantha Ranathunga",
   "license": "ISC",
